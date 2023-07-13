@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Book Store</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_cart">Cart</string>
+    <string name="menu_profile">Profile</string>
+    <string name="price">IDR %d.00</string>
+    <string name="minus_symbol">—</string>
+    <string name="plus_symbol">＋</string>
+    <string name="add_to_cart">Add to cart : IDR %d.00</string>
+    <string name="total_order">Total order : IDR %d.00</string>
+    <string name="back">Back</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </string>
+    <string name="share_message">Share\n</string>
+    <string name="placeholder_search">"Search "</string>
+    <string name="section_AllBook">All Books</string>
+    <string name="section_newAdded">New Books!</string>
+    <string name="menu_cart_empty">Cart is empty</string>
+    <string name="name_profile">Aaliyah Farah Adibah</string>
+    <string name="email_profile">aaliyahfarahadibah@Gmail.com</string>
+    <string name="your_cart">Your Cart</string>
+</resources>
